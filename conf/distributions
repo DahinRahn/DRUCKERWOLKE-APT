@@ -1,0 +1,7 @@
+Origin: DRUCKERWOLKE
+Label: druckerwolke
+Codename: bionic
+Architectures: amd64
+Components: main
+Description: Repository for DRUCKERWOLKE Linux clients
+SignWith: F436A72330053DAD

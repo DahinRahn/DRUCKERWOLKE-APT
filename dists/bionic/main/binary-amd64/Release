@@ -1,0 +1,5 @@
+Component: main
+Origin: DRUCKERWOLKE
+Label: druckerwolke
+Architecture: amd64
+Description: Repository for DRUCKERWOLKE Linux clients
