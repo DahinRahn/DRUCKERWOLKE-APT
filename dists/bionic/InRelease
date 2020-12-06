@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: DRUCKERWOLKE
 Label: druckerwolke
 Codename: bionic
-Date: Sun, 06 Dec 2020 11:46:38 UTC
+Date: Sun, 06 Dec 2020 12:35:35 UTC
 Architectures: amd64
 Components: main
 Description: Repository for DRUCKERWOLKE Linux clients
 MD5Sum:
- 71629dff30fb374363625389207af414 615 main/binary-amd64/Packages
- 0b82b1760acc036a945bb5d31ef8872b 428 main/binary-amd64/Packages.gz
+ fc0945faea5bcd474fc9326230d831c6 615 main/binary-amd64/Packages
+ 0a840799f830e252eb96b804f3a89b5a 429 main/binary-amd64/Packages.gz
  f923ebd3c675176f374296e737c23e80 132 main/binary-amd64/Release
 SHA1:
- ecdcb968a50a07ab70cf8f1a0557457ddbf0db07 615 main/binary-amd64/Packages
- b836334ce511098cbfb6bb8f238594b897626339 428 main/binary-amd64/Packages.gz
+ 8299e7ccc01cd54641f35e2caa19af67b3e57d73 615 main/binary-amd64/Packages
+ 3f0cf7e29d434aabdfe5c631510d4b00fb8b8003 429 main/binary-amd64/Packages.gz
  2381ab37eba30427871959ac4e4629688c399e11 132 main/binary-amd64/Release
 SHA256:
- f068c41db5c2f47045fd08d91910dd06d971e1c89373e5f530418e43452c68bd 615 main/binary-amd64/Packages
- 6c43959a8ea40bb9417611a9a06ee55206610e5cb67628297649b6c72937a72e 428 main/binary-amd64/Packages.gz
+ 612eaf77664b1f22258d8fdcba759d9510cb1ed2b755bb529a6d181654a9f1be 615 main/binary-amd64/Packages
+ ccf1b93fa38ef42dbdad8155d95071f3116ada2a6dac61b6bcaa2d3a7cbbfcfb 429 main/binary-amd64/Packages.gz
  694eabb7c5abe53e1cb2fe0e920239f9af61b903bf9feab84922f042a75fbbb0 132 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE5HOcBaJ+Aps3g7gD9DanIzAFPa0FAl/MxJ8ACgkQ9DanIzAF
-Pa2GSQ/9GhHbAIBN2oDJu4DeRjN/Uut80ZDb6Nv2y3M7ypzzQqMJnqd4fraxqW7E
-7FsN6sbUTQSTf77LW7EQTwWrnFaUlirdBwyjCC0+iV9BOPw4T0DKd3UvzEAwQSd3
-NIHPsZK2Ty613vfwsvhp99vpnbgPW52ngLbNlLQeCK/zWndY5ri94+J8Q/GGVryn
-1Pz095gXpll3TxQNc9U77s6Nc4IgZcnVLCnfh+yVnZG4CyZw/Fx5iBSgSC4xHfND
-5aw5b/rF1U107GPtNPWT3/Ff7n2YAAhlA6y8E4ioQdkTY8aNPUhRCJqojI+oM8E4
-unL6Drm51nPP5Sgc/sX7mkQUgLqWXep605kLJI+d4ZF05uWjc4+xMOGvlXD4XPsK
-J/f+QY3JLW5vZ2Q07FeGWfXnb//K3J/jibky6wysaEhdEsabBfhdolspuLfjwQU1
-rC6HodIZmwmdSaL35ZpcDGZkthWPu1AkYKICO1XyVxDzSnWokT/No9cDSmyHbn4/
-/XiOzC4oTsfPzpL9Bg7W+c6FxI5S580z5J3GhsG76plrzCL/IN8BC/rpa2ji7UJl
-Ej9hJiK4jVBI4/ZvOmnEM7vaPHHYptZRX+KhPgZaMFk7ejZ8h+RZnn9JqL5t5Dyx
-umVxf/5SafVppLya2ACv8Sz7J1eTy59bumEkzA8ic1aG3jeiRDc=
-=uF3u
+iQIzBAEBCgAdFiEE5HOcBaJ+Aps3g7gD9DanIzAFPa0FAl/M0BsACgkQ9DanIzAF
+Pa121w/+KYv5eS8mF1g+oSpHNruaDq+JCRiT09wKbMVix6O2PmATCa8TGk/VFPUh
+u1BVa9iEP5zK9vschIoYHwoTeddyuhyXxmZf/XhyDJdHSfZSk+TGtWzCoGrfB/UF
+tQD818uey+7rJRaeyTerCQxrhKjfp4xrbTrf3HVxrRkTENNhZDJ5nBVEA/Slh4zP
+0AxWnoO9A9ORYklQ79ymrBb5nKHQnLAxRYyN8Vt1VuTOWBU2RGxBBWJniLL2VXBG
+ZeRxBwWJDl0HbdWuFE5HUtRX94VHuyau7BYfFS+8DzVtbY8+CW15kR/5XepAJdUF
+XP2xQvM3DKGrSbRqS638bZ1mKvMIpBsYO6LI3Svbq2NXNmTde14xmLg17+i1mpDE
+HjLxtnXyc5yp6sYePFyoNy9xWRgye1Gsc4UjMoOqnChIzXQP2V+wFtCILk6FAauu
+2uRDMENDSJcBjzz2jJLXuNhBms4iA50ocKKAwvKeuYoy5zhAIsQk/28CAMwHI2cC
+9iXZncXSthYhAFHrKX8W4cEkYiVxX/7PfR0GF0GznanXtJ8/vqL5Cmihhr8sDqLO
+2NIL6P+TpXrlKXFghYMcIrDPT98vgMccNQY8NxetA/qvkFzdK0EEvkRp66rbQbFO
+Q/YUe6q0CEmEvqvwiQy6C/uAfEdTo2OiEILhzBS3o5+F9oQh5os=
+=cpn0
 -----END PGP SIGNATURE-----
