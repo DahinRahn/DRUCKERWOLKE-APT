@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: DRUCKERWOLKE
 Label: druckerwolke
 Codename: bionic
-Date: Sun, 06 Dec 2020 14:20:20 UTC
+Date: Sun, 06 Dec 2020 14:36:17 UTC
 Architectures: amd64
 Components: main
 Description: Repository for DRUCKERWOLKE Linux clients
 MD5Sum:
- c04ee6784b47e8f961614b3acd1bc610 624 main/binary-amd64/Packages
- f02d6164655608ac7472bce1233a1912 432 main/binary-amd64/Packages.gz
+ f0762c0f3f4a0cce9250fcdd651967f2 624 main/binary-amd64/Packages
+ 29885e1e3a7498ecf1b7b6f99e53183b 434 main/binary-amd64/Packages.gz
  f923ebd3c675176f374296e737c23e80 132 main/binary-amd64/Release
 SHA1:
- 408a4cb6e53c9b4a34a269a624544a49af3c58ca 624 main/binary-amd64/Packages
- f77d771afda3f7979065b7cad614f354b0706513 432 main/binary-amd64/Packages.gz
+ 58f36467597ee263a389a5b25689f5b6121968b0 624 main/binary-amd64/Packages
+ 0ca61257f6984c68cc2ba3ce72e5d454ab6ff0bb 434 main/binary-amd64/Packages.gz
  2381ab37eba30427871959ac4e4629688c399e11 132 main/binary-amd64/Release
 SHA256:
- 74fc37625ac99cb905e397ff92b6758da9bf1f4509d2f583607dd5b758cd10d1 624 main/binary-amd64/Packages
- 101428dc6c0d6b45850cc67695ff8d000619f8d77f90f97ecb5428a4b75ebd53 432 main/binary-amd64/Packages.gz
+ 3c9b9ae13712eb7df49e932f8d1b4e3c84211473a893d03f4bafe57f46b0fd7f 624 main/binary-amd64/Packages
+ d0ad412cd849d2c000221401195269c16b1d9e65187fc223ef8b793dbe610d76 434 main/binary-amd64/Packages.gz
  694eabb7c5abe53e1cb2fe0e920239f9af61b903bf9feab84922f042a75fbbb0 132 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE5HOcBaJ+Aps3g7gD9DanIzAFPa0FAl/M6KoACgkQ9DanIzAF
-Pa2mbw/9Gsrq89QdMRW+ilP2qtoC8z8nzHjA23Y6QenZuFIMPiK98cbna7wS7g4B
-ZwsgWgPtWhAlxO9AMgUZoO6USU13t4kZ6HcM79EPXSvRD1ZYl2bPZrGdqQcgcNHT
-3GMZr9goiGCLlwOjNQ/I0rDB+fwDDVaZm8UhxvyExlYFCqAV6wX9H38nWpdFLoSS
-7d2woaKsQshSL+Gnr/riyJ6iwATmgtMll6CBK4heqo6teGbjJ2yoJVvnUuuxNGaG
-bSIFWnJoeIt5Dj4wRJaWjFChqe0I/CAkQhHl2rkb7lFF7oJFyFARUq7//4npsmEZ
-KJMxTQV7Iu7deEcP9YE9Y2QcqNT1HLA1nCo8Vfy3zGND4JU9NfngLAq30sU3u8JO
-mpHuDBvKlJ74zyOAeIUPqK+fagD5rNrd/c4n998BkiaixbqoH+ueLgDrsfZV7tvB
-e2sIu/654ZzOB48mkgIw7p2aZC2Yup92STFyhhrh+X3nCCZQlirn2yBJKYRVi7wi
-MB6LWPLY6wIkhc6rcgigvMWQxz7HyiSaSr5FBiuqsGuB82pJ2WXkByuwyDZwTc3X
-zMENE9X4bUGMrdgBzRXvgjvJ+V7ZsHQUMUd8Zk+XynV36zbZDzJEUZnsY5LYytC0
-D/ALRtTVt54ySc3KBtlDh164BxMZkHGkFWvVM6wMg0eubfqDbQM=
-=ZFPG
+iQIzBAEBCgAdFiEE5HOcBaJ+Aps3g7gD9DanIzAFPa0FAl/M7GUACgkQ9DanIzAF
+Pa2ZBw/9HQoJD09tKvAWg6e/ylRevkqNndLxpo7Lw8geA+9lhCsXb3Fu33ISm75V
+yIudMtlYE7UKk7O4GsJE1aUNSv09zyL5Ae68rSWcZZOhpPQoXbydITSlmU9AhVYf
+7Sm52/9EqtbJSnh6hkL0z7TbqqKBKbwjxVHmairCPkpXgmgO9s2ZbRWdjS+lZyQf
+/yjRYf1+vFjwbLqO50Q37sga6yo7UIEUu8GL1xgLwoIx6NQ/p8nsuNmYOr5BwT7i
+vpWcBPV7AcI60zqBut5SSGe1GOLKETCMdPrqKuQ+cewXnI+ytfnm2zgZd9OY1a2F
+seWim0DzANDEWjXo4lK8UAkVXtWPdAWf4JGa3fz0AVKvptAGKI1JoRGv96jf29GI
+UPn3Id4msvy+CMv/jzsltJ5fKsjYvO+c4VOO6NshMV11LmGGq2ZVaaghjiIOJPn/
+xEIp6XrssEvdfv/AhuebFDt/mjXuwIX25ewsIw37orJaD6ZaOzTRpQdzbK7EpJI9
+Bgi2BZVfmvhcTqftxzByYzOUQpsBc8CmYJaxq+eH1Zg41DS7mUPA7GkTzHxfklXQ
+dNw12QVvhXt9Xw7Pan75tuyE+qQHZKX/suHU9VjvkAt8k50lXKEKSlhR5hhCCWLx
+e4AY6WQGxgUWlIMsyv+XTRxif6uae+faAfdvY/bvG7rTjsyAc+s=
+=cpsx
 -----END PGP SIGNATURE-----
