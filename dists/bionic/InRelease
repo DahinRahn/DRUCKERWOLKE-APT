@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: DRUCKERWOLKE
 Label: druckerwolke
 Codename: bionic
-Date: Sun, 06 Dec 2020 11:37:50 UTC
+Date: Sun, 06 Dec 2020 11:46:38 UTC
 Architectures: amd64
 Components: main
 Description: Repository for DRUCKERWOLKE Linux clients
 MD5Sum:
- e6c1f5809a2dd1e8d76e498e58243924 587 main/binary-amd64/Packages
- c94c59eab9ea8ab3d8ee48b1a1bc606e 410 main/binary-amd64/Packages.gz
+ 71629dff30fb374363625389207af414 615 main/binary-amd64/Packages
+ 0b82b1760acc036a945bb5d31ef8872b 428 main/binary-amd64/Packages.gz
  f923ebd3c675176f374296e737c23e80 132 main/binary-amd64/Release
 SHA1:
- 0bff5f2e3e29fb478f762291e5fa834cd766d12e 587 main/binary-amd64/Packages
- b2f67fbfddc1bb8d619bc1cc3c7e9f0d113b962d 410 main/binary-amd64/Packages.gz
+ ecdcb968a50a07ab70cf8f1a0557457ddbf0db07 615 main/binary-amd64/Packages
+ b836334ce511098cbfb6bb8f238594b897626339 428 main/binary-amd64/Packages.gz
  2381ab37eba30427871959ac4e4629688c399e11 132 main/binary-amd64/Release
 SHA256:
- fbc69a7015e6e82d11c5d3168c85773552fe7d319266c75d48816e780fce5714 587 main/binary-amd64/Packages
- ee0f70c665720c554a5b0e380117630b0f943006c1918db19b2012b637384e35 410 main/binary-amd64/Packages.gz
+ f068c41db5c2f47045fd08d91910dd06d971e1c89373e5f530418e43452c68bd 615 main/binary-amd64/Packages
+ 6c43959a8ea40bb9417611a9a06ee55206610e5cb67628297649b6c72937a72e 428 main/binary-amd64/Packages.gz
  694eabb7c5abe53e1cb2fe0e920239f9af61b903bf9feab84922f042a75fbbb0 132 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE5HOcBaJ+Aps3g7gD9DanIzAFPa0FAl/MwpEACgkQ9DanIzAF
-Pa3xpg/7BVxdTDt70RGdaSUUivoDX6lZq2BNf47o6jPvPWjzuOFhR+jUgP1i1g4Z
-i1AoPYxYkhEosIIfplUNSeVa8yJcXcAsOqiWDoJi7z8opBvbZMjaqVn9JpGTGEL6
-FK40wdCsP97m4D1PYD15ohrsKylLYUOjM5lY+Zis6v5zmmD8YkpDzw3jzCuk6HTh
-5fVZUS3yICtM7/fSTmOGxzLKiXaQsO5nM58zho9JcSfCz4ExDIL0JDwEObamGcd8
-wWtMn6NBmv98s37asjwfEVtKg/UX/WFLYMktdpzj51zv6vM/xFAxaJEdrUSil2IF
-FnCPes9P49IpjmadFeENZywQk3FeDbvJOmDWg8vRJ9sVm9EsZwImDzMYbb2LS3BA
-22kQoEnQe/XrcpQYo2HOBJkty9lP2jkLmRX5YAolYqN67YzD4dfIQZPip59Tmw4Q
-awAtHXo5u1oafKFIxMCt2y1YT/XWMM1iypU93rHevgCDFLcf9TsScjXks/4JLqZ0
-5W/BWs7UuaSkgwC+vnmX3x/jE1rjUlEY2uxyiUPvJc/VvSueolu1/77TSQSiNeGD
-zJxBhRqPVSyxE4exE5QQ5bX4wNAPDrW1y5K+3+5+2Tb6RgewqZUKj+YWLYEhX7Xk
-ymHosD0kYjLnzoWBEJzXB3WhGCq/YDoiO1fpozuq34BwZdnhLOY=
-=4jT+
+iQIzBAEBCgAdFiEE5HOcBaJ+Aps3g7gD9DanIzAFPa0FAl/MxJ8ACgkQ9DanIzAF
+Pa2GSQ/9GhHbAIBN2oDJu4DeRjN/Uut80ZDb6Nv2y3M7ypzzQqMJnqd4fraxqW7E
+7FsN6sbUTQSTf77LW7EQTwWrnFaUlirdBwyjCC0+iV9BOPw4T0DKd3UvzEAwQSd3
+NIHPsZK2Ty613vfwsvhp99vpnbgPW52ngLbNlLQeCK/zWndY5ri94+J8Q/GGVryn
+1Pz095gXpll3TxQNc9U77s6Nc4IgZcnVLCnfh+yVnZG4CyZw/Fx5iBSgSC4xHfND
+5aw5b/rF1U107GPtNPWT3/Ff7n2YAAhlA6y8E4ioQdkTY8aNPUhRCJqojI+oM8E4
+unL6Drm51nPP5Sgc/sX7mkQUgLqWXep605kLJI+d4ZF05uWjc4+xMOGvlXD4XPsK
+J/f+QY3JLW5vZ2Q07FeGWfXnb//K3J/jibky6wysaEhdEsabBfhdolspuLfjwQU1
+rC6HodIZmwmdSaL35ZpcDGZkthWPu1AkYKICO1XyVxDzSnWokT/No9cDSmyHbn4/
+/XiOzC4oTsfPzpL9Bg7W+c6FxI5S580z5J3GhsG76plrzCL/IN8BC/rpa2ji7UJl
+Ej9hJiK4jVBI4/ZvOmnEM7vaPHHYptZRX+KhPgZaMFk7ejZ8h+RZnn9JqL5t5Dyx
+umVxf/5SafVppLya2ACv8Sz7J1eTy59bumEkzA8ic1aG3jeiRDc=
+=uF3u
 -----END PGP SIGNATURE-----
