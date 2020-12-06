@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: DRUCKERWOLKE
 Label: druckerwolke
 Codename: bionic
-Date: Sun, 06 Dec 2020 14:06:35 UTC
+Date: Sun, 06 Dec 2020 14:20:20 UTC
 Architectures: amd64
 Components: main
 Description: Repository for DRUCKERWOLKE Linux clients
 MD5Sum:
- 34583149bfb28ff8ef60661a643565e7 624 main/binary-amd64/Packages
- b1f8b186cfb94c368fff9b3e0f8ddcd1 432 main/binary-amd64/Packages.gz
+ c04ee6784b47e8f961614b3acd1bc610 624 main/binary-amd64/Packages
+ f02d6164655608ac7472bce1233a1912 432 main/binary-amd64/Packages.gz
  f923ebd3c675176f374296e737c23e80 132 main/binary-amd64/Release
 SHA1:
- 12a0c0b2f4cf8d339284f8c927ecdf29f7789b4a 624 main/binary-amd64/Packages
- 8de6140d8e520c2187e4e2246041628e3e5404f8 432 main/binary-amd64/Packages.gz
+ 408a4cb6e53c9b4a34a269a624544a49af3c58ca 624 main/binary-amd64/Packages
+ f77d771afda3f7979065b7cad614f354b0706513 432 main/binary-amd64/Packages.gz
  2381ab37eba30427871959ac4e4629688c399e11 132 main/binary-amd64/Release
 SHA256:
- a50d00806f487c8305b0b26023aea006e8316068bf0bb9dd0a322afde74aa781 624 main/binary-amd64/Packages
- a5e1ffadbf29d0586073f34abc4bf32c79cb19083ab4fa6a95197701f72cf221 432 main/binary-amd64/Packages.gz
+ 74fc37625ac99cb905e397ff92b6758da9bf1f4509d2f583607dd5b758cd10d1 624 main/binary-amd64/Packages
+ 101428dc6c0d6b45850cc67695ff8d000619f8d77f90f97ecb5428a4b75ebd53 432 main/binary-amd64/Packages.gz
  694eabb7c5abe53e1cb2fe0e920239f9af61b903bf9feab84922f042a75fbbb0 132 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE5HOcBaJ+Aps3g7gD9DanIzAFPa0FAl/M5W4ACgkQ9DanIzAF
-Pa2C7Q//dzDn6HOOHJ6aUqNP8A6pqnHZE0IGR3lG97niWuNYtGEvSbOxHVuBSkCE
-3C8CtqBMiCwkOi+clHuff94jU3ozTT0oLs+yYw6+iiIxXy+K3BYkEVlpUa/tCWI3
-MtMHj2SI7UMJiiR6d2HrT9k3VHdmrgJJtd2hBGM+rKltklT1CLqM7gGUosqfzrDL
-f6IorkzaClv2MQtUiGEcwvvpkwj/IUaoqo+2gaTES6534vczrSB4kBKMaOzS1M+X
-hwk9sQNap2xgW0U7vmBhR31U9PNupI+2KfaaQloV/7+xRK1Mb1PdUZ+5wEn+Joj9
-HH8YsEUOM5OZFxXZ2jNp8/LOop3ayq1Bhv2aCXCx9462Zf1CJfC9X5CkO+Ohhb3A
-gtZuYMx5vB1Ch6SpK+1D+0Ft1U2xE7XddJSqdfGdea59mvb66SOhIT/Ut+wvLeBE
-mxxvDC8yf1VCGYdT4BiKfIWlrqgRWs4P6CHt0rA6b/WBz0ITKBUeSisOK1So2hRu
-XFN3FkA3Ovx02QqhHZkI99vb5k6EH/5O8LtBia3Q+yGyB0VuUNzWQDd9FIhbhS0R
-vGS/UmhvOoFwc3WM40s27Q6StfB4O1ie9d5yrv4uZDrQ+ua1r7hXmFPPjtPBVvyM
-mHp14QtKYLdnjvBMAEVFxe282265ZkUOnhPUZtq0C0G883G+HW4=
-=+OtB
+iQIzBAEBCgAdFiEE5HOcBaJ+Aps3g7gD9DanIzAFPa0FAl/M6KoACgkQ9DanIzAF
+Pa2mbw/9Gsrq89QdMRW+ilP2qtoC8z8nzHjA23Y6QenZuFIMPiK98cbna7wS7g4B
+ZwsgWgPtWhAlxO9AMgUZoO6USU13t4kZ6HcM79EPXSvRD1ZYl2bPZrGdqQcgcNHT
+3GMZr9goiGCLlwOjNQ/I0rDB+fwDDVaZm8UhxvyExlYFCqAV6wX9H38nWpdFLoSS
+7d2woaKsQshSL+Gnr/riyJ6iwATmgtMll6CBK4heqo6teGbjJ2yoJVvnUuuxNGaG
+bSIFWnJoeIt5Dj4wRJaWjFChqe0I/CAkQhHl2rkb7lFF7oJFyFARUq7//4npsmEZ
+KJMxTQV7Iu7deEcP9YE9Y2QcqNT1HLA1nCo8Vfy3zGND4JU9NfngLAq30sU3u8JO
+mpHuDBvKlJ74zyOAeIUPqK+fagD5rNrd/c4n998BkiaixbqoH+ueLgDrsfZV7tvB
+e2sIu/654ZzOB48mkgIw7p2aZC2Yup92STFyhhrh+X3nCCZQlirn2yBJKYRVi7wi
+MB6LWPLY6wIkhc6rcgigvMWQxz7HyiSaSr5FBiuqsGuB82pJ2WXkByuwyDZwTc3X
+zMENE9X4bUGMrdgBzRXvgjvJ+V7ZsHQUMUd8Zk+XynV36zbZDzJEUZnsY5LYytC0
+D/ALRtTVt54ySc3KBtlDh164BxMZkHGkFWvVM6wMg0eubfqDbQM=
+=ZFPG
 -----END PGP SIGNATURE-----
