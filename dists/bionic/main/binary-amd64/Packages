@@ -1,16 +1,16 @@
 Package: druckerwolke-client
-Version: 1.0.0.1
+Version: 1.0.0.3
 Architecture: amd64
 Maintainer: DRUCKERWOLKE Service Client <kontakt@druckerwolke.de>
 Installed-Size: 14
 Homepage: <insert the upstream URL, if relevant>
 Priority: optional
 Section: unknown
-Filename: pool/main/d/druckerwolke-client/druckerwolke-client_1.0.0.1_amd64.deb
+Filename: pool/main/d/druckerwolke-client/druckerwolke-client_1.0.0.3_amd64.deb
 Size: 2320
-SHA256: 6bf0438018f417e5d9e2f12f1af57e8d63ca33aa824a78334645b987720e1ce6
-SHA1: b397a5dddb7e86d15c04a095bfcdfe38ceacde83
-MD5sum: 219ace6d6d6c7348282c0f75f124ead3
+SHA256: 31366fcde0bd217719ccb6baab8c06403c81bd22c4424ebc3fd96e0cbe661eaf
+SHA1: 80ff024c597ce338e922ed2e11328b7054a83c63
+MD5sum: 5b0cb0970658cc716ec130ea1d4380ce
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 
