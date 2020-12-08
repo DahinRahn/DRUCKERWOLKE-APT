@@ -1,19 +1,37 @@
 Origin: DRUCKERWOLKE
 Label: druckerwolke
 Codename: bionic
-Date: Tue, 08 Dec 2020 17:04:02 UTC
-Architectures: amd64
+Date: Tue, 08 Dec 2020 20:38:15 UTC
+Architectures: amd64 arm arm64
 Components: main
 Description: Repository for DRUCKERWOLKE Linux clients
 MD5Sum:
  7537b4c553b5c5c8a38d55205b8430fe 634 main/binary-amd64/Packages
  0065a721b5c2223b753c2ea572939565 438 main/binary-amd64/Packages.gz
  f923ebd3c675176f374296e737c23e80 132 main/binary-amd64/Release
+ 471581b02b5e771e0e99995179a91472 630 main/binary-arm/Packages
+ 21afee99d1a6acdd37ae9ec6b2e74361 437 main/binary-arm/Packages.gz
+ 9a6a8f21e0cf020d6b6285ba9fe4ed4c 130 main/binary-arm/Release
+ 39dcb77c8497c580369fa8321d88b05e 634 main/binary-arm64/Packages
+ fff1e2b97d1ebfdae86ccf3c83b48302 438 main/binary-arm64/Packages.gz
+ 4675ac34113afdedfb6d036946242d23 132 main/binary-arm64/Release
 SHA1:
  3a4b41feaed1fc928d5a38ac5806b162801279ed 634 main/binary-amd64/Packages
  5b3d5b7b21373807e8deda1aa9636a15891e7c99 438 main/binary-amd64/Packages.gz
  2381ab37eba30427871959ac4e4629688c399e11 132 main/binary-amd64/Release
+ 33bac2d9b519e60202b2044e7a41c5515b85c935 630 main/binary-arm/Packages
+ 59cedc223f610a140aba9b4192239da3549c240e 437 main/binary-arm/Packages.gz
+ 9fddbd243153da94ddfba99396c6e4bf88ad7966 130 main/binary-arm/Release
+ 89b9458be75367fb114536b4d3b57bc839a042f5 634 main/binary-arm64/Packages
+ dd7e489cd742d69858eb3966e58150760b8a6081 438 main/binary-arm64/Packages.gz
+ cb92e6fa50eff30827bbd1a6405e48510b4e869d 132 main/binary-arm64/Release
 SHA256:
  86119ddab2d7f976cec98f1736e5283af242530fdb6de863454dd00354cba027 634 main/binary-amd64/Packages
  84ac6d6f7f22c520f6b3d116bd1d91d0a3f76af560dc98bf9761d6ce78698fec 438 main/binary-amd64/Packages.gz
  694eabb7c5abe53e1cb2fe0e920239f9af61b903bf9feab84922f042a75fbbb0 132 main/binary-amd64/Release
+ 27d6139010d1e86d783a080ddfe4e1e6eca2d74176009b1dec1fca4b5a1d7764 630 main/binary-arm/Packages
+ 7b2b09ce8e2e09c99dfe1f079f9057ead313f741dc25e5bd0ab8dec5c5939f5d 437 main/binary-arm/Packages.gz
+ 4b0933ed08506adae02e6e45f777881e6cff571e31a4025e20b03427c1d7fe0c 130 main/binary-arm/Release
+ 8ca47b92d1ac350e57793e5d9dbb2f0936ac3b89079da2e636a1f1de0e8e5c8c 634 main/binary-arm64/Packages
+ 9598bd157a9d12710894bd3e700a89cd4f489e0a1b49f950a0d980a58845378b 438 main/binary-arm64/Packages.gz
+ 4b839f3934fe3b2d216d9726571cf36a10089183fc3868e3393b619e308f621f 132 main/binary-arm64/Release
