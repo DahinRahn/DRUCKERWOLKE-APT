@@ -1,19 +1,19 @@
 Origin: DRUCKERWOLKE
 Label: druckerwolke
 Codename: bionic
-Date: Sun, 06 Dec 2020 18:11:49 UTC
+Date: Tue, 08 Dec 2020 17:04:02 UTC
 Architectures: amd64
 Components: main
 Description: Repository for DRUCKERWOLKE Linux clients
 MD5Sum:
- 3ed70455b56ca9c3bfa12eb552661ae9 624 main/binary-amd64/Packages
- 9fa4d20eb4b4b521b3cc10d3935e7bde 434 main/binary-amd64/Packages.gz
+ 7537b4c553b5c5c8a38d55205b8430fe 634 main/binary-amd64/Packages
+ 0065a721b5c2223b753c2ea572939565 438 main/binary-amd64/Packages.gz
  f923ebd3c675176f374296e737c23e80 132 main/binary-amd64/Release
 SHA1:
- 463bf2686b099b7a90b15fe0b8ef08735a721156 624 main/binary-amd64/Packages
- 0eaa8b4ae030c84dd11e1c80e7923be05fa4e061 434 main/binary-amd64/Packages.gz
+ 3a4b41feaed1fc928d5a38ac5806b162801279ed 634 main/binary-amd64/Packages
+ 5b3d5b7b21373807e8deda1aa9636a15891e7c99 438 main/binary-amd64/Packages.gz
  2381ab37eba30427871959ac4e4629688c399e11 132 main/binary-amd64/Release
 SHA256:
- 8bfc4a09bdb46f728c3d30c0c7b6312e38f1a8014dae033a8106a205924666a7 624 main/binary-amd64/Packages
- 3407d917b03e559b6737be49924259301a0dbe736aaf0e7756910b5daab5156e 434 main/binary-amd64/Packages.gz
+ 86119ddab2d7f976cec98f1736e5283af242530fdb6de863454dd00354cba027 634 main/binary-amd64/Packages
+ 84ac6d6f7f22c520f6b3d116bd1d91d0a3f76af560dc98bf9761d6ce78698fec 438 main/binary-amd64/Packages.gz
  694eabb7c5abe53e1cb2fe0e920239f9af61b903bf9feab84922f042a75fbbb0 132 main/binary-amd64/Release
