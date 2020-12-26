@@ -1,7 +1,7 @@
 Origin: DRUCKERWOLKE
 Label: druckerwolke
 Codename: bionic
-Architectures: amd64 arm arm64
+Architectures: amd64 arm arm64 armhf
 Components: main
 Description: Repository for DRUCKERWOLKE Linux clients
 SignWith: F436A72330053DAD

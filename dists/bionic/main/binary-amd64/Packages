@@ -1,5 +1,5 @@
 Package: druckerwolke-client
-Version: 2020.12.10.01
+Version: 2020.12.22.02
 Architecture: amd64
 Maintainer: DRUCKERWOLKE Service Client <kontakt@druckerwolke.de>
 Installed-Size: 78567
@@ -7,11 +7,11 @@ Depends: cups (>= 2.2.10)
 Homepage: https://www.druckerwolke.de
 Priority: optional
 Section: unknown
-Filename: pool/main/d/druckerwolke-client/druckerwolke-client_2020.12.10.01_amd64.deb
-Size: 22673360
-SHA256: 9e3ac77b0c17963e6a2f1b55f4dd017a17593461c2760b34ef3c87c752b01f7b
-SHA1: b5ed3c1477a3380de7d1c0ef9f57db2d5b26b7b3
-MD5sum: 1cd0cea1f8c1c0a53fe10e70c40d0124
+Filename: pool/main/d/druckerwolke-client/druckerwolke-client_2020.12.22.02_amd64.deb
+Size: 22669988
+SHA256: 715e5ab3c3321d017e814c95715ead88a3cae79b5f399a741b46ee720574a77a
+SHA1: eaa1949dcc010fbea556e48eb4dc53f31cebbcd0
+MD5sum: f7d893457d2c6abc0b1ea95e679db1c8
 Description: The serviceclient to bring DRUCKERWOLKE to linux
  <insert long description, indented with spaces>
 
