@@ -1,5 +1,5 @@
 Package: druckerwolke-client
-Version: 2021.01.05.01
+Version: 2021.01.17.02
 Architecture: arm
 Maintainer: DRUCKERWOLKE Service Client <kontakt@druckerwolke.de>
 Installed-Size: 78941
@@ -7,11 +7,11 @@ Depends: cups (>= 2.2.10)
 Homepage: https://www.druckerwolke.de
 Priority: optional
 Section: unknown
-Filename: pool/main/d/druckerwolke-client/druckerwolke-client_2021.01.05.01_arm.deb
-Size: 23186748
-SHA256: e02cfd1ce71ad97bc830ae26ced44ad27d59c544178447cb3937e59ff703a250
-SHA1: e6d7511ccc09dfa13bedfad5367d07ef195d71da
-MD5sum: be2b02ed92517077205e63f9c82a4828
+Filename: pool/main/d/druckerwolke-client/druckerwolke-client_2021.01.17.02_arm.deb
+Size: 23188828
+SHA256: 7ad974dc7bd40d5a51a3d0fa5c718eaf774cb5fad47b78b39c6c47c57341481b
+SHA1: fa8fddd022b71ae980d565e01bf3d5d79bebc651
+MD5sum: e1c808095c9562991886547d9e7c246c
 Description: The serviceclient to bring DRUCKERWOLKE to linux
  <insert long description, indented with spaces>
 
